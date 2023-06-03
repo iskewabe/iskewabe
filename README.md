@@ -14,3 +14,10 @@ I'm a software engineer, an Entrepreneur, and an aspiring AI Researcher.
 - 🌱 I’m currently learning Neural Networks and Deep Learning.
 - ⚡ Fun fact: Everything I have is a work-in-progress (WIP).
 <hr>
+
+[![Eskinder’s github stats](https://github-readme-stats.vercel.app/api?username=iskewabe)](https://github.com/iskewabe)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskewabe&layout=compact)](https://github.com/iskewabe)
+
+
+
