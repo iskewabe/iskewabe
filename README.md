@@ -5,6 +5,7 @@ Hi there, I'm Eskinder👋
 </p>
 <p align="center">
 I'm a software engineer, an Entrepreneur, and an aspiring AI Researcher.
+<a href="https://www.linkedin.com/in/iskewabe/"><img src="https://raw.githubusercontent.com/iskewabe/iskewabe/main/images/linkedin.svg" alt="iskewabe | LinkedIn" width="21px"/></a>
 </p>
 <hr>
 
