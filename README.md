@@ -4,7 +4,7 @@
 Hi there, I'm Eskinder👋
 </p>
 <p align="center">
-I'm a Software engineer, an Entrepreneur, Ex-military pilot and an aspiring AI researcher in AI-enabled autonomy and control to support resilience and contingency management in manned and unmanned Aerospace applications.
+I'm a Software engineer, an Entrepreneur, Ex-military pilot, and an aspiring AI researcher in AI-enabled autonomy and control to support resilience and contingency management in manned and unmanned Aerospace applications.
 <a href="https://www.linkedin.com/in/iskewabe/"><img src="https://raw.githubusercontent.com/iskewabe/iskewabe/main/images/linkedin.svg" alt="iskewabe | LinkedIn" width="21px"/></a>
 </p>
 <hr>
