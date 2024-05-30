@@ -16,6 +16,6 @@ I'm a Software engineer, an Entrepreneur, Ex-military pilot, and an aspiring AI 
 - 📜 Aerospace Engineering, Computer Science, Artificial Intelligence, autonomy, multi-objective optimization.
 <hr>
 
-[![Eskinder’s github stats](https://github-readme-stats.vercel.app/api?username=iskewab)](https://github.com/iskewabe)
+[![Eskinder’s github stats](https://github-readme-stats.vercel.app/api?username=iskewabe)](https://github.com/iskewabe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskewabe&layout=compact)](https://github.com/iskewabe)
