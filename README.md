@@ -12,7 +12,7 @@ I'm a Software engineer, an Entrepreneur, Ex-military pilot, and an aspiring AI 
 
 - 🔭 I’m currently working as a full stack developer at Nubian Technology plc.
 - 🌱 I’m currently learning Neural Networks and Deep Learning.
-- ⚡ Fun fact: Everything I have is a work-in-progress (WIP).
+- ⚡ A work-in-progress (WIP).
 - 📜 Aerospace Engineering, Computer Science, Artificial Intelligence, autonomy, multi-objective optimization.
 <hr>
 
