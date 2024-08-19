@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/iskewabe/iskewabe/assets/24851739/237fdc43-acca-4dc0-bd15-3ac0e198083c" alt="my banner" />
+<!-- img width="100%" src="https://github.com/iskewabe/iskewabe/assets/24851739/237fdc43-acca-4dc0-bd15-3ac0e198083c" alt="my banner" /-->
 
 <p align="center"><br>
 Hi there, I'm Eskinder👋
